@@ -1,0 +1,432 @@
+@media screen and (max-width: 1400px){
+	.header {
+		width: 100%;
+	}
+}
+@media screen and (max-width: 1200px){
+	.header {
+		width: 100%;
+	}
+	#menu ul li {
+		font-size: 20px;
+		padding-right: 1.5%;
+	}
+	#menu ul {
+		padding-left:12%;
+	}
+	#content h3{
+		width: 60%;
+	}
+	#content-top p{
+		width: 66%;
+	}
+	.title p{
+		padding-left: 8%;
+	}
+	.product{
+		padding-left: 10.2%;
+	}
+	.top-footer{
+		padding-left: 7.5%;
+	}
+}
+@media screen and (max-width: 1024px){
+	.header {
+		width: 100%;
+	}
+	#menu ul li {
+		padding-right: 1.2%;
+    	padding-left: 1.2%;
+	}
+	#content{
+		margin-left: 55px;
+	}
+	#content h3{
+		width: 75%;
+	}
+	#content-top p{
+		width: 75%;
+	}
+	#button button{
+		width: 112px;
+		height: 44px;
+	}
+	.product{
+		padding-left: 12%;
+	}
+	.title p{
+		padding-left: 8.2%;
+	}
+	.clear-padding{
+		width: 30%;
+	}
+	.frames{
+		width: 230px;
+		height: 290px;
+	}
+	#name{
+		margin-top: 0px;
+	}
+	#card{
+		margin-top: 0px;
+	}
+}
+@media screen and (max-width: 960px){
+	.header {
+		width: 100%;
+	}
+	#menu ul {
+		padding: 1% 0 1% 12%;
+	}
+	#menu ul li {
+		font-size: 18px;
+	}
+	.caption{
+		width: 60%;
+    	padding-left: 10%;
+	}
+	#content{
+		width: 100%;
+    	margin-top: 82px;
+	}
+	#content h3 {
+	    width: 90%;
+	    font-size: 60px;
+	    line-height: 90%;
+	}
+	#content-top p{
+	    font-size: 18px;
+	    line-height: 28px;
+	    width: 100%;
+	}
+	#button button{
+		height:42px;
+		width: 105px;
+		border-width: 2px;
+	}
+	.category img{
+	    height: 100px;
+	}
+	#next-pre #next {
+		top:22%;
+	}
+	#next-pre #pre{
+		top:22%;
+	}
+	.title p{
+		padding-left: 10px;
+	}
+	.top-footer{
+		width: 80%;
+		padding-left: 0px;
+	}
+	.product{
+		padding-bottom: 30px;
+		padding-top: 30px;
+		padding-left:80px;
+	}
+	.clear-padding{
+		float: left;
+		margin:auto;
+		padding-left: 5%;
+	    padding-bottom: 4%;
+	    padding-top: 4%;
+	}
+	.frames{
+		width: 215px;
+    	height: 300px;
+	}
+	#card{
+		margin-top:0px;
+	}
+	#div-footer{
+		width: 25%;
+		float:left;
+		padding-left:25px;
+	}
+}
+@media screen and (max-width: 768px){
+	.header {
+		width: 100%;
+	}
+	
+	#menu ul {
+		padding: 1% 0 1% 11%;
+	}
+	#menu ul li {
+    	font-size: 16px;
+	    padding-right: 1.2%;
+   		padding-left: 1%;
+	}
+	.caption{
+		width: 48%;
+    	padding-left: 3%;
+	}
+	.caption #content{
+		padding-left:3%;
+	}
+	.caption #content h3{
+		width:100%;
+		line-height: 40px;
+		font-size: 45px;
+	}
+	#content-top p {
+		font-size: 15px;
+		line-height: 22px;
+		width:117%;
+	}
+	#image img {
+	    margin-top: 65px;
+	    width: 95%;
+	    margin-left: 12%;
+	}
+	#button{
+		margin-top:20px;
+	}
+	#button button {
+		width: 100px;
+    	height: 40px;
+	}
+	#button button>a{
+		font-size: 25px;
+	}
+	.category img {
+	    width: auto;
+	    height: 105px;
+	    max-width: 35%;
+	    margin-left: 25%;
+	}
+	#next-pre #next {
+		top: 30%;
+	    height: 40%;
+	    left: -23%;
+	}
+	#next-pre #pre{
+		top: 30%;
+	    height: 40%;
+	    right: 2%;
+	}
+	#content-right button {
+		width: 60px;
+    	height: 30px;
+    	font-size: 18px;
+    	line-height: 18px;
+    	margin-top: 25%;
+	}
+	.category #content-right {
+	    margin-top: 3%;
+	    width: 20%;
+	}
+	.category #content-right p {
+		font-size:25px;
+		line-height: 23px;
+	}
+	.frames {
+		margin-top: 10%;
+		width: 245px;
+    	height: 305px;
+	}
+	.clear-padding{
+		width: 45%;
+		float:left;
+		margin: auto;
+	    padding-left: 5%;
+	    padding-top: 0;
+	    padding-bottom: 3%;
+	}
+	img.cangiua{
+		margin-top: 10%;
+	}
+	.title p{
+		padding-left: 10%;
+	}
+	.title #name{
+		margin-top: 0px;
+	}
+	.title-card #card{
+		margin-top: 5px;
+	}
+	.product{
+		padding-bottom: 25px;
+    	padding-top: 25px;
+    	padding-left: 65px;
+	}
+	#div-footer{
+		width: 25%;
+		float:left;
+	}
+	.col-md-3 p{
+		width: 115%;
+	}
+	#footer-col{
+		font-size: 14px;
+		line-height: 25px;
+		margin-top:13px;
+	}
+}
+@media screen and (max-width: 640px){
+	.header {
+		width: 100%;
+	}
+	#ribbon {
+		display: block!important;
+		margin-left: 8px;
+	}
+	#menu-inner ul {
+		width: 100%;
+		float: none;
+		display: none;
+	}
+	#menu-inner ul li {
+		float: none;
+
+	}
+	#logo img{
+		width:65%;
+		margin-top:5px;
+	}
+	#search{
+		margin-top: 10px;
+	}
+	#search input{
+		margin-top: -5px;
+		height: 15px;
+	}
+	input[type=search] {
+	    background: url(../images/search-icon.svg) no-repeat 98% 3px;
+	}
+	#giohang img {
+		margin-top:5px;
+	    margin-right: 15px;
+	    width: 27%;
+	}
+	.caption{
+		padding-left: 0%;
+		width: 49%;
+	}
+	.caption #content{
+		padding-left: 0px;
+		margin-top:45px;
+	}
+	.caption #content h3{
+		width:100%;
+		line-height: 40px;
+		font-size: 43px;
+	}
+	#content-top p {
+		font-size: 15px;
+		line-height: 19px;
+		width: 120%;
+	}
+	.item-slide{
+		width: 85%;
+	}
+	#image{
+		width: 35%;
+	}
+	#image img {
+	    margin-top: 45px;
+	    width: 95%;
+	    margin-left: -5%;
+	}
+	#button{
+		margin-top:20px;
+	}
+	#button button {
+		width: 100px;
+    	height: 40px;
+	}
+	#button button>a{
+		font-size: 23px;
+	}
+	.category{
+		padding:15px 0px;
+		width: 29%;
+	}
+	.category img {
+	    height: 100px;
+	    max-width: 46%;
+	    margin-left: 25%;
+	}
+	#next-pre #next {
+		top: 30%;
+	    height: 40%;
+	    left: -23%;
+	}
+	#next-pre #pre{
+		top: 30%;
+	    height: 40%;
+	    right: 2%;
+	}
+	#content-right button {
+		width: 60px;
+    	height: 30px;
+    	font-size: 18px;
+    	line-height: 18px;
+    	margin-top: 25%;
+	}
+	.category #content-right {
+	    margin-top: 3%;
+	    width: 20%;
+	}
+	.category #content-right p {
+		font-size:25px;
+		line-height: 23px;
+	}
+	.frames {
+		margin-top: 10%;
+		width: 245px;
+    	height: 305px;
+	}
+	.clear-padding{
+		width: 45%;
+		float:left;
+		margin: auto;
+		padding-left: 0%;
+		padding-top: 0;
+		padding-bottom: 3%;
+	}
+	img.cangiua{
+		margin-top: 10%;
+	}
+	.title p{
+		padding-left: 7%;
+		font-size: 25px;
+	}
+	.title #name{
+		margin-top: 0px;
+	}
+	.title-card #card{
+		margin-top: 5px;
+	}
+	.product{
+		padding-bottom: 25px;
+    	padding-top: 25px;
+    	padding-left: 65px;
+	}
+	#div-footer{
+		width: 25%;
+		float: left;
+		margin-bottom: 0%;
+		padding-left: 0%;
+	}
+	.col-md-3 p{
+		font-size: 23px;
+		line-height: 15px;
+	}
+	#footer-col{
+		font-size: 14px;
+		line-height: 23px;
+		margin-top:13px;
+	}
+}
+@media screen and (max-width: 480px){
+	.header {
+		width: 100%;
+	}
+}
+@media screen and (max-width: 320px){
+	.header {
+		width: 100%;
+	}
+}
